@@ -13,6 +13,8 @@ root.render(
   </React.StrictMode>
 );
 
+export const server = 'http://api.coingecko.com/api/v3';
+
 
 
 
